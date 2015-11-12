@@ -1,8 +1,15 @@
 body{
   font-family: "HelveticaNeue-Light";
   color: black;
-  background: white;
+  background-color: white;
+  background-image:
+    linear-gradient(
+      to right, 
+      whitesmoke, gainsboro
+
+    );
 }
+
 
 /*/HEAD/*/
 header#home-head{
@@ -27,7 +34,7 @@ a#home-head{
 .aboutme:hover{
   color: gold;
 }
-@media (min-width: 800px){
+@media (min-width: 600px){
 header#home-head{
     width: 50%;
     margin: 0 auto;
@@ -35,6 +42,7 @@ header#home-head{
   }
   
 }
+
 
 
 /*/CONTACT/*/
@@ -131,7 +139,7 @@ ul{
 }
 
 .contact-container, .project-container, #home-head{
-  background-color: ivory;
+  background-color: rgba(248,248,255, 0.2);
 }
 
 
@@ -149,11 +157,18 @@ ul{
 
 /*/ ABOUT ME /*/
 .about-me-container{
-  background-color: ivory;
-
+  background-color: rgba(248,248,255, 0.2);
 }
 .about-me-text{
   font-size: 1.2em;
+}
+
+#about-me-link{
+  color: black;
+}
+
+#about-me-link:hover{
+  color: magenta;
 }
 
 @media (min-width: 755px) {
