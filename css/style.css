@@ -5,7 +5,7 @@ body{
   background-image:
     linear-gradient(
       to right, 
-      whitesmoke, gainsboro
+      whitesmoke, silver
 
     );
 }
@@ -34,7 +34,7 @@ a#home-head{
 .aboutme:hover{
   color: gold;
 }
-@media (min-width: 800px){
+@media (min-width: 850px){
 header#home-head{
     width: 50%;
     margin: 0 auto;
