@@ -1,6 +1,6 @@
 # Portfolio
 
-[See My Portfolio](bam-sethi.github.io-profile)
+[See My Portfolio](http://bam-sethi.github.io/profile/)
 
 #CV
 ---
