@@ -34,7 +34,7 @@ a#home-head{
 .aboutme:hover{
   color: gold;
 }
-@media (min-width: 600px){
+@media (min-width: 800px){
 header#home-head{
     width: 50%;
     margin: 0 auto;
