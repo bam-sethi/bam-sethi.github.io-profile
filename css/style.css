@@ -6,14 +6,14 @@ body{
 
 /*/HEAD/*/
 header#home-head{
-  font-size: 2em;
+  font-size: 1.7em;
   margin: 25% 0 5% 0;
   color: black;
 }
 a#home-head{
   color: black;
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 1.9em;
 }
 .projects, .contact, .aboutme{
   color: black;
@@ -27,11 +27,11 @@ a#home-head{
 .aboutme:hover{
   color: gold;
 }
-@media (min-width: 1000px){
+@media (min-width: 800px){
 header#home-head{
-    width: 40%;
+    width: 50%;
     margin: 0 auto;
-    font-size: 3em;
+    font-size: 2.2em;
   }
   
 }
@@ -39,11 +39,11 @@ header#home-head{
 
 /*/CONTACT/*/
 #contact-header{
-  font-size: 2em;
+  font-size: 1.2em;
   display: inline-block;
 }
 .contact-container{
-  font-size: 1.5em;
+  font-size: 1em;
   width: 80%;
   margin: 0 auto;
 }
@@ -54,7 +54,7 @@ header#home-head{
 
 #email-add{
   display:none;
-  font-size: 1.5em;
+  font-size: 1em;
   padding: 0;
   margin:0 0 10px 0;
   cursor: auto;
@@ -90,32 +90,35 @@ ul{
   color: gold;
 }
 
-@media (min-width: 1000px) {
+@media (min-width: 755px) {
   .contact-container{
-    width: 40%;
+    width: 50%;
     margin: 0 auto;
-    font-size: 2em;
+    font-size: 1.2em;
   }
   #contact-header{
-    font-size: 2em;
+    margin-bottom: 5%;
+    font-size: 1.5em;
   }
   .homelink, #homelink{
     margin-right: 0px;
   }
 }
 
+
 /*/ PROJECTS /*/
 
-#project-header{
-  font-size: 2em;
-  display: inline-block;
-}
 
 .project-container{
-  font-size: 1.5em;
+  font-size: 1em;
   width: 80%;
   padding: 10px 0 0 0 ;
   margin: 0 auto;
+}
+
+#project-header{
+  font-size: 1.2em;
+  display: inline-block;
 }
 
 .project-divs{
@@ -130,11 +133,40 @@ ul{
 .contact-container, .project-container, #home-head{
   background-color: ivory;
 }
-/*/ ABOUT ME /*/
-.about-me-text{
-  font-size: 2em;
+
+
+@media (min-width: 755px) {
+  .project-container{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.2em;
+  }
+  #project-header{
+    margin-bottom: 5%;
+    font-size: 1.5em;
+  }
 }
 
+/*/ ABOUT ME /*/
+.about-me-container{
+  background-color: ivory;
+
+}
+.about-me-text{
+  font-size: 1.2em;
+}
+
+@media (min-width: 755px) {
+  .about-me-container{
+    width: 50%;
+    margin: 0 auto;
+    font-size: 1.2em;
+  }
+  .about-me-text{
+    margin-bottom: 5%;
+    font-size: 1.5em;
+  }
+}
 
 
 
