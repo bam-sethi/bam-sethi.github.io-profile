@@ -7,33 +7,60 @@
 #Ambar Sethi			    
 ##Junior Web Developer
 
+As a junior front end developer at Fieldmargin I have gained full knowledge of the software development lifecycle, from inception through testing and deployment of an app.  While this is a front end developer role, I also have prior experience working in full stack JavaScript applications such as the MEAN stack as well as Ruby on Rails. I gained this through intensively studying  full stack web development for three months at General Assembly. 
 
-For three months I have been intensively studying full stack web development at General Assembly. I got here in a roundabout sort of way. At university I studied art and loved learning about building things. However I knew I never wanted to do art as a career. I started learning web development straight out of art school, whilst working as a chef. I knew for sure after several months that this is what I wanted to do and wanted the acceleration that WDI offered.
+I got to where I am in a roundabout sort of way. At university I studied art and loved learning about building things. However I knew I never wanted to do art as a career. I started learning web development straight out of art school, whilst working as a chef. I knew for sure after several months that this is what I wanted to do and wanted the acceleration that WDI offered.  Every morning at General Assembly  we had a Scrum and the people there quickly became like family to me. I have learnt so much and there is so much I want to keep learning as a Web Developer. 
 
-Every morning at GA we had a Scrum and the people there quickly became like family to me.  I have learnt so much and there is so much I want to keep learning as a Web Developer. I’m really keen on the MEAN stack, front end and Ruby on Rails but I’m interested in doing something of everything. I am looking for a Junior role and I am excited about learning new languages and technologies.
+I’m really keen on the MEAN stack, front end and Ruby on Rails but I’m interested in doing something of everything.  Recently in my own time I have been playing around with React and a bit of React Native, as well as  Ionic2 and Angular2.  These are exciting technologies for me, particularly utilising the native build tools, finding ways to create smoother and more economic user experiences. I am looking for a Junior role and I am excited about learning new languages and technologies.
 
-Over the last three months I have learnt a lot about myself, I’m happy that I’m somewhere I want to be in my life. And want to keep improving my skills and growing my coding knowledge as part of a wider tech community.
+
+## JUNIOR DEVELOPER @ [Fieldmargin](http://fieldmargin.com/)
+
+My role was as junior JavaScript front end developer, contributing to building the app for Fieldmargin, which was an offline mapping, note and communication tool for farmers. The hybrid applications were built in Ionic, and I also delivered features for the actual app, such as a walkthrough, creating and utilizing services and directives such as a translation service and handling HTTP requests. In addition I rebuilt the main website using build tools and striving to learn all the things Angular has to offer along the way.
+
+What excited me most about working on this app was learning to write more modular code as a part of a really substantial code base. Working out solutions on the go together with the project manager and lead developers was also one of my favourite parts of the job.
+
+Working for a young start up and a small team means I was involved in different aspects from building,UX, testing to deploying and learning about industry best practices.
+
+Here are some of the tools , frameworks and ideas I’ve been using for the app:
+- Ionic
+- AngularJS
+- Vanilla JavaScript
+- ngCordova
+- HTML and templating engines such as Jade
+- Mapping tools - such as  LeafletJS
+- CSS and extensions and frameworks such as Stylus, SCSS, Angular Material
+- Deployment using AWS
+- Mobile first design-for IOS and Android
+- Version control, Bitbucket, Git, using Jira as agile board and task manager
+- Authentication
+- Translation Services
+- Buld Tools such as Gulp
+- Karma and Jasmine
+- Submitting to App Store and Google Play Store
+
+##General Assembly Projects
 
 ###Project 1-JavaScript point and click Game-Space Invasion
 
 For my first project at GA, I built a space invader style game, getting to grips with using the fundamentals of jQuery for DOM manipulation, pushing myself to complete an MVP that was all about the front end.
-Event Handling
-Scope
-DOM manipulation
-Learning the power of JavaScript and jQuery
-Sound Manager library
+* Event Handling
+* Scope
+* DOM manipulation
+* Learning the power of JavaScript and jQuery
+* Sound Manager library
 
 ###Project 2- Ruby on Rails-RedesignTheCity
 http://github.com/bam-sethi/public_architecture_consultancy
 
 I built my second project in Ruby on Rails and the idea was to let users talk about the city they live in through its buildings.  The aim is to give people an online voice in the development of their city.  The app allows users to write about and upload suggestions for building uses/designs and to vote on each other’s suggestions for the city through a ‘Like’ button function. 
 I learnt …
-RESTful Routes
-Active Record- creating and Seeding a Relational Database
-Understanding the MVC and the separation of concerns
-Rails Gems- Carrier Wave, Debugging Gems …
-Amazon AWS  
-Materialize CSS 
+* RESTful Routes
+* Active Record- creating and Seeding a Relational Database
+* Understanding the MVC and the separation of concerns
+* Rails Gems- Carrier Wave, Debugging Gems …
+* Amazon AWS  
+* Materialize CSS 
 I really enjoyed this Project, Rails gives you the opportunity to build something substantial with lots of different features. I found it fun and challenging moving between Ruby logic and JavaScript logic. I got see how useful Ruby on Rails can be for doing quick prototyping to longer term projects.
 
 ###Project 3-Node.JS and Express-RADLondon
@@ -41,14 +68,14 @@ https://github.com/bam-sethi/RAD_London
 
 RadLondon was my first group project. We built an App to teach people about the radical/political history of East London. Using the Google Maps API, we created custom interactive maps of the area with pins that contained major historical events.
  Used and learnt:
-Node.js with MongoDB and Mongoose
-Express Framework
-Google Maps API
-Node Modules and Middleware
-Multiple AJAX requests
-Passport authentication with twitter authentication
-jQuery and JavaScript 
-Client/Server Requests
+* Node.js with MongoDB and Mongoose
+* Express Framework
+* Google Maps API
+* Node Modules and Middleware
+* Multiple AJAX requests
+* Passport authentication with twitter authentication
+* jQuery and JavaScript 
+* Client/Server Requests
 Working as a group meant we could push ourselves in terms of scope, I loved doing pair programming, and found having to explain as you code a pretty invaluable experience. It also meant we learnt about working on a big Git repository, on different branches.
 
 ###Project 4-Node.JS and Angular-TwitterDoom
@@ -56,24 +83,24 @@ http://github.com/bam-sethi/project-4-twitter-appy
 
 My final project is an emotional visualisation chart for London.  I used the Twitter API to live stream tweets and passed them through a Sentiment Analysis API that I could then manipulate on the client side using AngularJS.  My main aim in this project was to challenge myself by working with RealTime data and Data Visualisation. 
 Technologies I used and learnt:
-Node.js
-Socket.io
-Twitter Streaming API
-Sentiment API
-AngularJS
-Chart.JS
+* Node.js
+* Socket.io
+* Twitter Streaming API
+* Sentiment API
+* AngularJS
+* Chart.JS
 I really enjoy writing front and backend JavaScript. Using multiple API’s concurrently meant I got to learn about handling Cross Origin Requests, while also experimenting with AngularJS and it’s modules and dependencies.
 
 ##SKILLS
-MongoDB	JavaScript	AngularJS	API’s	REST & CRUD
-Active Record	Ruby	Express	Web Sockets	Git
-Mongoose	JQuery	Sinatra	MVC	Scraping
-SQL/NoSQL	Node.JS	HTML5 & CSS3	AJAX	Gulp 
-ORM/ ODM	OOP	CSS Frameworks	Debugging	Rake Tasks
-POSTGRESQL	Ruby on Rails	DOM manipulation	Authentication	AWS
+* MongoDB	* JavaScript	* AngularJS	* API’s	* REST & CRUD
+* Active Record	* Ruby	* Express	* Web Sockets	* Git
+* Mongoose	* JQuery	* Sinatra	* MVC	* Scraping
+* SQL/NoSQL	* Node.JS	* HTML5 & CSS3	* AJAX	* Gulp 
+* ORM/ ODM	* OOP	* CSS * Frameworks	* Debugging	* Rake * Tasks
+* POSTGRESQL	* Ruby on Rails	* DOM manipulation	* Authentication	* AWS
 
 
-##PREVIOUS WORK
+##OTHER WORK
 
 
 Head Chef @ The Shack Kitchen (The Shacklewell Arms) 2015
